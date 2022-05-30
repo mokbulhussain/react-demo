@@ -1,0 +1,32 @@
+.banner{
+    background: #b0c9ff;
+    padding: 100px;
+}
+.service-content .card{
+   display: inline;
+}
+.service-content .card img {
+    width: 64px;
+}
+
+.footer{
+    padding: 50px;
+    background: blue;
+}
+.footer-content h3{
+    color: #ffffff;
+}
+
+.pageTop{
+    background: blue;
+    padding: 100px 0px;
+}
+
+.pageTop-content h3{
+    color: #ffffff;
+}
+
+.navbar-nav a {
+    color: #ffffff;
+    margin-left: 20px;
+}
